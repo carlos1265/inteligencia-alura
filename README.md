@@ -1,1 +1,1 @@
-# inteligencia-alura
+# IA
